@@ -29,5 +29,5 @@ an Altera FPGA on the DE2-115 board.
 
 
 **Resource Usage**
-![](Resource_Usage.png)
+![](Resource_Usage.PNG)
 
